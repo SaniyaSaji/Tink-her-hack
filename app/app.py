@@ -48,12 +48,22 @@ else:
 # Initialize Flask app
 app = Flask(__name__)
 
+@app.route('/', methods=['GET'])
+def home():
+    return "Phishing Detection API is running!", 200
+
 @app.route('/predict', methods=['POST'])
 def predict():
-    data = request.json
-    input_data = np.array(data['features']).reshape(1, -1)
-    prediction = model.predict(input_data)[0]
-    return jsonify({"phishing": bool(prediction)})
+    try:
+        data = request.get_json()
+        if 'features' not in data:
+            return jsonify({"error": "Missing 'features' in request"}), 400
+        
+        input_data = np.array(data['features']).reshape(1, -1)
+        prediction = model.predict(input_data)[0]
+        return jsonify({"phishing": bool(prediction)})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
