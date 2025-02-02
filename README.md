@@ -26,12 +26,31 @@ Our project is a Phishing Detection System that identifies malicious URLs using 
 
 The Problem statement
 
-[What ridiculous problem are you solving?]
+
+Phishing is a cyber-attack where malicious actors deceive users by creating fraudulent websites to steal sensitive information such as passwords, credit card details, or personal information. Traditional blacklist-based detection methods fail to catch newly generated phishing URLs, necessitating intelligent, real-time detection mechanisms.
+
 
 The Solution
-[How are you solving it? Keep it fun!]
+Solution Approach
+To address this issue, we developed an AI-powered phishing URL detection system using machine learning. The system is implemented as a Flask-based API that:
+
+Extracts URL Features:
+
+Analyzes various characteristics of the URL, including length, domain attributes, special character usage, and keyword presence.
+Uses a custom feature extraction function to generate a 50-dimensional feature vector.
+Trains a Machine Learning Model:
+
+Uses a Random Forest Classifier for classification.
+If a trained model is unavailable, the system automatically trains a new one.
+Deploys as an API:
+
+The Flask API accepts a URL input via a POST request.
+The extracted features are passed to the trained model for prediction.
+Returns a binary classification result indicating whether the URL is phishing (1) or legitimate (0).
+
 
 Technical Details
+
 Technologies/Components Used
 
 For Software:
