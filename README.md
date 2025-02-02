@@ -86,6 +86,8 @@ The output is displayed
 ![Screenshot3](https://github.com/SaniyaSaji/Tink-her-hack/blob/9e044759485f2c52b2ba334233caeac950157fff/image3.jpg)
 
 Diagrams
+
+
 ![image](https://github.com/SaniyaSaji/Tink-her-hack/blob/fd4d63b2be33d294663b8cb0246b2e0331b9f5b0/image4.png)
 Our project is a Phishing Detection System that identifies malicious URLs using Machine Learning. It helps users verify whether a given URL is legitimate or a phishing attempt, providing a security layer against online threats.
 
