@@ -1,11 +1,17 @@
 
 PHISHING URL DETECTOR 🎯
+
+
 Basic Details
+
 Team Name: Tannies
+
 Team Members
+
 Member 1: Bhanumathy T S - Mar Athanasius College of Engineering
 Member 2: Saniya Saji - Mar Athanasius College of Engineering
 Member 3: Neethu Shankar - Mar Athanasius College of Engineering
+
 Hosted Project Link
 [mention your project hosted project link here]
 
