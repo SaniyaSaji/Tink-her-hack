@@ -95,7 +95,19 @@ Our project is a Phishing Detection System that identifies malicious URLs using 
 Project Demo
 Video
 https://www.loom.com/share/ef0c4a0a59dd4deb9b15da93c4c3cd41
+This is the user interface of a Phishing URL Detector web application. The design features a gradient background with a clean, centered input box.
 
+🔍 Functionality:
+
+Users can enter a URL into the text box.
+Clicking the "Check Legitimacy" button will analyze the URL to determine whether it's safe or a phishing attempt.
+🎨 Design:
+
+A soft pink-blue gradient gives a modern look.
+A rounded input field ensures a smooth user experience.
+The button is styled in orange for visibility.
+🛡️ Purpose:
+This tool helps users stay safe online by detecting suspicious links before clicking on them!
 
 Team Contributions
 Bhanumathy T S - ai model 
