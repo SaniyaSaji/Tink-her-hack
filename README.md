@@ -1,6 +1,7 @@
 
 PHISHING URL DETECTOR 🎯
 
+
 Basic Details
 
 Team Name: Tannies
