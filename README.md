@@ -107,6 +107,7 @@ The output is displayed
 
 #Build Photos
 Team photo
+![image](https://github.com/SaniyaSaji/Tink-her-hack/blob/4e17c24aaa8104b595404462b53637298fbe9300/team%20photo.jpg)
 
 Diagrams
 
