@@ -1,43 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phishing Email Detector</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phishing URL Detector</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>  <!-- Link to the JavaScript file -->
 </head>
+
 <body>
-
-    <div class="container">
-        <h2>Phishing Email Detector</h2>
-        <form id="phishingForm">
-            <textarea id="emailContent" rows="5" placeholder="Enter email content..."></textarea>
-            <input type="text" id="url" placeholder="Enter suspicious URL (optional)">
-            <button type="submit">Check Legitimacy</button>
-        </form>
-        <p id="result" class="result"></p>
-    </div>
-
-    <script>
-        document.getElementById("phishingForm").addEventListener("submit", async function(event) {
-            event.preventDefault();
-
-            const emailContent = document.getElementById("emailContent").value;
-            const url = document.getElementById("url").value;
-            const resultElement = document.getElementById("result");
-
-            const response = await fetch("http://127.0.0.1:5000/predict", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ email: emailContent, url: url })
-            });
-
-            const data = await response.json();
-            resultElement.innerText = `Prediction: ${data.prediction}`;
-            resultElement.className = `result ${data.prediction === "legitimate" ? "legitimate" : "phishing"}`;
-            resultElement.style.display = "block";
-        });
-    </script>
-
+  <div class="container">
+    <h2>Phishing URL Detector</h2>
+    <form id="phishingForm">
+      <!-- Input field for entering the URL -->
+      <input type="text" id="url" placeholder="Enter suspicious URL" required>
+      <!-- Submit button to trigger form submission -->
+      <button type="submit">Check Legitimacy</button>
+    </form>
+  </div>
 </body>
+
 </html>
