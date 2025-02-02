@@ -81,35 +81,17 @@ Screenshots (Add at least 3)
 
 ![Screenshot2](https://github.com/SaniyaSaji/Tink-her-hack/blob/3cab596b6da05b3e0f2d1bc89f5ef124015ae611/image2.jpg)
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![Screenshot3](https://github.com/SaniyaSaji/Tink-her-hack/blob/9e044759485f2c52b2ba334233caeac950157fff/image3.jpg)
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
-For Hardware:
-
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
 
 Project Demo
 Video
 https://www.loom.com/share/ef0c4a0a59dd4deb9b15da93c4c3cd41
 
 
-
-Additional Demos
-[Add any extra demo materials/links]
 
 Team Contributions
 [Name 1]: [Specific contributions]
