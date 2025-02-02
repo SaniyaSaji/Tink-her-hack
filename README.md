@@ -17,9 +17,11 @@ Hosted Project Link
 [mention your project hosted project link here]
 
 Project Description
+
 Our project is a Phishing Detection System that identifies malicious URLs using Machine Learning. It helps users verify whether a given URL is legitimate or a phishing attempt, providing a security layer against online threats.
 
 The Problem statement
+
 [What ridiculous problem are you solving?]
 
 The Solution
