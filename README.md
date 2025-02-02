@@ -78,8 +78,10 @@ For Software:
 
 Screenshots (Add at least 3)
 [![Screenshot1](https://github.com/SaniyaSaji/Tink-her-hack/blob/463f15d4ca5c0491417bd45335436d33097fcfcd/IMAGE.jpg)
+We are giving the input to verify the url.
 
 ![Screenshot2](https://github.com/SaniyaSaji/Tink-her-hack/blob/3cab596b6da05b3e0f2d1bc89f5ef124015ae611/image2.jpg)
+The output is displayed
 
 ![Screenshot3](https://github.com/SaniyaSaji/Tink-her-hack/blob/9e044759485f2c52b2ba334233caeac950157fff/image3.jpg)
 
