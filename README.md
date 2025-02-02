@@ -77,7 +77,7 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+[![Screenshot1](https://github.com/SaniyaSaji/Tink-her-hack/blob/463f15d4ca5c0491417bd45335436d33097fcfcd/IMAGE.jpg)
 
 ![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
 
