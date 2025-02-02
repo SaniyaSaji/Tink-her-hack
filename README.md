@@ -79,7 +79,7 @@ For Software:
 Screenshots (Add at least 3)
 [![Screenshot1](https://github.com/SaniyaSaji/Tink-her-hack/blob/463f15d4ca5c0491417bd45335436d33097fcfcd/IMAGE.jpg)
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![Screenshot2](https://github.com/SaniyaSaji/Tink-her-hack/blob/3cab596b6da05b3e0f2d1bc89f5ef124015ae611/image2.jpg)
 
 ![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
 
