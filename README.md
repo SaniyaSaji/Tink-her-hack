@@ -104,7 +104,9 @@ Build Photos
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+https://www.loom.com/share/ef0c4a0a59dd4deb9b15da93c4c3cd41
+
+
 
 Additional Demos
 [Add any extra demo materials/links]
