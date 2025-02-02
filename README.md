@@ -86,7 +86,7 @@ The output is displayed
 ![Screenshot3](https://github.com/SaniyaSaji/Tink-her-hack/blob/9e044759485f2c52b2ba334233caeac950157fff/image3.jpg)
 
 Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+Our project is a Phishing Detection System that identifies malicious URLs using Machine Learning. It helps users verify whether a given URL is legitimate or a phishing attempt, providing a security layer against online threats.
 
 
 Project Demo
