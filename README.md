@@ -94,9 +94,8 @@ Video
 https://www.loom.com/share/ef0c4a0a59dd4deb9b15da93c4c3cd41
 
 
-
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Bhanumathy T S - ai model 
+Saniya Saji - Frontend
+Neethu Shankar -Backend
 
