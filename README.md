@@ -105,9 +105,7 @@ The output is displayed
 
 ![Screenshot3](https://github.com/SaniyaSaji/Tink-her-hack/blob/9e044759485f2c52b2ba334233caeac950157fff/image3.jpg)
 
-#Build Photos
-Team photo
-![image](https://github.com/SaniyaSaji/Tink-her-hack/blob/4e17c24aaa8104b595404462b53637298fbe9300/team%20photo.jpg)
+
 
 Diagrams
 
@@ -123,6 +121,8 @@ Our project is a Phishing Detection System that identifies malicious URLs using 
 
 Build Photos
 
+Team photo
+![image](https://github.com/SaniyaSaji/Tink-her-hack/blob/4e17c24aaa8104b595404462b53637298fbe9300/team%20photo.jpg)
 
 Building process
 
