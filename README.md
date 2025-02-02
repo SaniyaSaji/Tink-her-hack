@@ -112,14 +112,27 @@ Diagrams
 Our project is a Phishing Detection System that identifies malicious URLs using Machine Learning. It helps users verify whether a given URL is legitimate or a phishing attempt, providing a security layer against online threats.
 
 
+
+
+
+
+
 Build Photos
 
 
 Building process
+
+
+
+
 ![WhatsApp Image 2025-02-02 at 11 11 58_2ec98b53](https://github.com/user-attachments/assets/bf5d95f0-a896-4e35-8333-b1b0e39bf11a)
+
+
 ![WhatsApp Image 2025-02-02 at 11 10 09_5b6db7d3](https://github.com/user-attachments/assets/303e590c-f223-415e-bc56-916c2de3a07c)
 
 Final Product
+
+
 ![WhatsApp Image 2025-02-02 at 09 52 13_ae9b18c5](https://github.com/user-attachments/assets/dc769003-f17b-4d17-88e0-79c8ad155ba7)
 
 
