@@ -31,7 +31,8 @@ Phishing is a cyber-attack where malicious actors deceive users by creating frau
 
 
 The Solution
-Solution Approach
+
+
 To address this issue, we developed an AI-powered phishing URL detection system using machine learning. The system is implemented as a Flask-based API that:
 
 Extracts URL Features:
@@ -77,7 +78,7 @@ Installation
 
 Run the following commands to set up the project:
 # Clone the repository
-git clone [repository link]
+git clone https://github.com/SaniyaSaji/Tink-her-hack.git
 cd phishing-detection-url
 
 # Create a virtual environment
@@ -111,6 +112,19 @@ Diagrams
 Our project is a Phishing Detection System that identifies malicious URLs using Machine Learning. It helps users verify whether a given URL is legitimate or a phishing attempt, providing a security layer against online threats.
 
 
+Build Photos
+
+
+Building process
+![WhatsApp Image 2025-02-02 at 11 11 58_2ec98b53](https://github.com/user-attachments/assets/bf5d95f0-a896-4e35-8333-b1b0e39bf11a)
+![WhatsApp Image 2025-02-02 at 11 10 09_5b6db7d3](https://github.com/user-attachments/assets/303e590c-f223-415e-bc56-916c2de3a07c)
+
+Final Product
+![WhatsApp Image 2025-02-02 at 09 52 13_ae9b18c5](https://github.com/user-attachments/assets/dc769003-f17b-4d17-88e0-79c8ad155ba7)
+
+
+
+
 Project Demo
 Video
 https://www.loom.com/share/ef0c4a0a59dd4deb9b15da93c4c3cd41
@@ -130,6 +144,8 @@ This tool helps users stay safe online by detecting suspicious links before clic
 
 Team Contributions
 Bhanumathy T S - ai model 
+
 Saniya Saji - Frontend
+
 Neethu Shankar -Backend
 
